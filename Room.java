@@ -23,7 +23,7 @@ public class Room{
       this.next = null;
    }
    
-   public String setDescription(String desc){
+   public void setDescription(String desc){
       this.desc = desc;
    }
    
