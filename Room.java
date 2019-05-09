@@ -1,8 +1,9 @@
 public class Room{
    
-   private string desc;   
+   private String desc;   
    public Room prev;
    public Room next;
+   
    
    public Room(String desc, Room prev, Room next){
       this.desc = desc;
@@ -14,6 +15,12 @@ public class Room{
       this.desc = desc;
       this.prev = null;
       this.next = next;
+   }
+   
+   public Room(String desc){
+      this.desc = desc;
+      this.prev = null;
+      this.next = null;
    }
    
    public String setDescription(String desc){
