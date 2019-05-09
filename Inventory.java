@@ -26,6 +26,10 @@ public class Inventory {
     public String toString(){
         return inventory.toString();
     }
+    
+    public String view(Item item){
+        return item.getDescription;
+    }
 
 
 }
