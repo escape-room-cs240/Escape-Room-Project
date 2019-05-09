@@ -1,5 +1,11 @@
 /*To-Do
    -Store all previous room descriptions in a linked-list format
+   -Image variable, implimentation similar to the description
+      -return method
+      -set method
+   -Keep a set of items contained in each room
+      -remove method for when user takes an item
+      -add method to place items in room 
 */
 public class Room{
    
