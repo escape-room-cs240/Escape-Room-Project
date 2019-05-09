@@ -1,3 +1,8 @@
+/*To-Do:
+   -Image variable
+      -Return image method
+      -Set image method
+*/
 public class Item{
    private String name; //returns what the object is called
    private String description; //returns a brief description of what the object is
