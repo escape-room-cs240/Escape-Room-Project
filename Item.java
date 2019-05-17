@@ -46,6 +46,7 @@ public class Item{
       this.combinesWith = other; 
    }
    
+   //Returns if item has been used or is destroyed
    public boolean destroyed(){
       return destroyed;
    }
