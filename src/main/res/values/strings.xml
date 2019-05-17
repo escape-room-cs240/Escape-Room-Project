@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EscaperRoom</string>
+    <string name="command_text">Command...</string>
+    <string name="room_text">You wake up chained to a wall...</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
